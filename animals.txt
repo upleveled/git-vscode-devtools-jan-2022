@@ -1,0 +1,5 @@
+dog  s
+cat  s
+elephant  b
+tiger  m
+lion  m
