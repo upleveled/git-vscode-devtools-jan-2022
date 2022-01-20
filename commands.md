@@ -1,4 +1,4 @@
-`git commit -v` ==> add commit message with changes in file (you can have it as default)
+`git commit -v` ==> add commit message with changes in file (please do this your default)
 `git diff` ==> show differences on non staged files
 `git diff --staged` ==> show differences on staged files
 `git add --patch` ===> allow you to staged small parts of a file
