@@ -1,0 +1,8 @@
+{
+  "name": "git-vscode-devtools-jan-2022",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:upleveled/git-vscode-devtools-jan-2022.git",
+  "author": "josehower <josehowerupn@gmail.com>",
+  "license": "MIT"
+}
