@@ -1,10 +1,16 @@
-# VS CODE tips
+# Dev tips tips
 
-## commands
+## git commands
 
-delete line => cmd/ctrl + shift + K
-copy line => cmd/ctrl + C
-paste line => cmd/ctrl + V
+https://github.com/upleveled/git-vscode-devtools-jan-2022/blob/main/commands.md
+
+## VS code commands
+
+delete line => `cmd/ctrl + shift + K`
+
+copy line => `cmd/ctrl + C`
+
+paste line => `cmd/ctrl + V`
 
 ## Section 1
 
