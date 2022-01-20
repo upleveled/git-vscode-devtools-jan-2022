@@ -1,6 +1,9 @@
 `git commit -v` ==> add commit message with changes in file (please do this your default)
+
 `git diff` ==> show differences on non staged files
+
 `git diff --staged` ==> show differences on staged files
+
 `git add --patch` ===> allow you to staged small parts of a file
 
 [cool article](https://paritosh-pundir.medium.com/take-control-of-your-commits-with-git-adds-patch-mode-2a5187590c3)
