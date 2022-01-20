@@ -1,3 +1,5 @@
+# git commands
+
 `git commit -v` ==> add commit message with changes in file (please do this your default)
 
 `git diff` ==> show differences on non staged files
